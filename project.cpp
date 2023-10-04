@@ -13,4 +13,5 @@ int main()
         cout << word << " ";
     }
     cout << endl;
+    cout << "Hello from July!";
 }
