@@ -13,5 +13,6 @@ int main()
         cout << word << "";
     }
     cout << endl;
-    cout << "Hello from July!";
+    cout << "Hello from July!" << endl;
+    cout << "Hello from Ania!" << endl;
 }
