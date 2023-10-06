@@ -14,4 +14,5 @@ int main()
     }
     cout << endl;
     cout << "Hello from July!";
+    cout << "qwerty";
 }
